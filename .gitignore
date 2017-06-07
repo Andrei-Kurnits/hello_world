@@ -1,3 +1,9 @@
+# My executable
+hello_world
+
+# IDE files
+*.kdev4
+
 # Prerequisites
 *.d
 
